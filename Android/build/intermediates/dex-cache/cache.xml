@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b394a5a8ec978b5348b4f74201dffc797855fafa">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_54d2f21b7b3362cdb1fbbb8f22733fe14aefde6e\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_7559046ed8dbd431cf769b0400c87a23732d5de9\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a6864f6706808909461e8bd9465ada376fcaa955\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.oguzdev-CircularFloatingActionMenu-1.0.2_38042f96e38ec2314d25b3feb70fa728b20fce7c\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_4a1eec0244d2fd086c01c5f4be5b07c657fe2a15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SKings\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.0-beta\5b66e3d1a2be4de5401b8c374747ce19e1db9130\MPAndroidChart-v3.0.0-beta.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5b66e3d1a2be4de5401b8c374747ce19e1db9130">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.0-beta_82bdfa62138006618d34aca7741e5ed418eaefc9\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.androidanimations-library-1.1.3_ae6e579d07d690f38828a3a094ea53391dca8dd5\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="697affe2949939cf2e02f47d5dad871ceb91c843">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5c4dc0ee8d4011e1df6ce5b7d3b476732723ee3c\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\library\1.6.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1d16ffcc50b1dfa726cf978ea9f0a949cdd70e7d">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.ogaclejapan.smarttablayout-library-1.6.1_0d1fd6f85808924a852c3bc0c25fdc6b0c2350e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SKings\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c42beea5f9ba9456d4751105777ce2ad5ac171fd\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.1_88dfa3f62df7826f996701b583e336bae82788c5\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_52db690c4a11b27ec8fb9c616dcfd77658faa768\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.ogaclejapan.smarttablayout\utils-v4\1.6.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7dc4e0ea5b06183f6b32f08c5db6bcb6ef79c02a">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.ogaclejapan.smarttablayout-utils-v4-1.6.1_5a6e28a37fb62c23db7cff6a91beedd8fcb60088\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_78f9b702547ca2379caa77b6a27b31f29f60e9fd\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_a738f0bb22fb2209fc5076a20bf8ecd0ed544ef2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\SKings\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_3ddaa037e528ae951c7d46ba4de928e7e22a7de2\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8419191d25f4105772fc16b55a005a270cb4d4c8">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.rey5137-material-1.2.4_88f2958d8f73d7fdafae32dec71c5ab2dcb0355d\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_3f1c3201da04f8da15575aea98b6740887486cd5\classes.dex" />
+    </item>
+    <item
+        jar="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="E:\WorkSpaces\Android\SmartSchool\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.easing-library-1.0.1_6d54874dcc62e97cc8b7ca8ce079d7d92e0061eb\classes.dex" />
+    </item>
+
+</items>
